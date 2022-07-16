@@ -6,4 +6,3 @@ void main()
     printf("hiee");
     printf("param patel the easy learn");
 }
-
