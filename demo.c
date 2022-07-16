@@ -1,4 +1,4 @@
-//programe to find formula to find bmi 
+//demo programe 
 #include <stdio.h>
 void main()
 {
