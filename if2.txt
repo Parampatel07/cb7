@@ -1,22 +1,18 @@
 syntax
 -----------------
-if()
+switch (temp)
 {
+    case 1:
+        printf
+        // line of codes
+    break;
 
-}
-else if()
-{
+    case 2:
+        printf 
+        // lines of code
+    break;
 
-}
-else if()
-{
-
-}
-else if()
-{
-    
-}
-else
-{
-    
+    default:
+    //lines of code
+    break;
 }
