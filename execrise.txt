@@ -22,3 +22,8 @@ loop
 
 -->write a program to print following series (triangular numbers)
 0, 1, 3, 6, 10, 15, 21, 28, 36, 45, 55 ... 1000
+
+write a following pattern program
+https://i1.faceprep.in/fp/articles/img/46684_1580817324.png
+
+https://i1.faceprep.in/fp/articles/img/55984_1580817324.png
