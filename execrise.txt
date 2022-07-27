@@ -27,3 +27,7 @@ write a following pattern program
 https://i1.faceprep.in/fp/articles/img/46684_1580817324.png
 
 https://i1.faceprep.in/fp/articles/img/55984_1580817324.png
+
+array
+----------------------------------------
+1] write a programe to take name as input from user and display it in reverse
