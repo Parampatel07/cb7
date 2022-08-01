@@ -31,3 +31,5 @@ https://i1.faceprep.in/fp/articles/img/55984_1580817324.png
 array
 ----------------------------------------
 1] write a programe to take name as input from user and display it in reverse
+
+2]write a programe to take input of 5 crickert runs of 5 matches and find average and highest run scorer
