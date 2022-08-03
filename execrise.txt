@@ -33,3 +33,11 @@ array
 1] write a programe to take name as input from user and display it in reverse
 
 2]write a programe to take input of 5 crickert runs of 5 matches and find average and highest run scorer
+
+function
+--------------------------------------------
+1]write a program to findout area of circle where radius is 50
+
+2]write a programe to print hollo full pyramid using function
+
+3]write a program to print pallindrome numbers checker
