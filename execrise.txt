@@ -57,3 +57,17 @@ yearly income     tax rate
 <8,00,000         20%
 
 >=8,00,000        30%  
+
+7] write a programe to peform swap without using third variable using function
+
+8]write a menu driven programe to make calculator
+given option as below
+->addition
+->subtraction
+->multiplication
+->division
+->modulas
+->minimum
+->maximum
+->equality
+->exit
