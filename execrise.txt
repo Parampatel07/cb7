@@ -71,3 +71,7 @@ given option as below
 ->maximum
 ->equality
 ->exit
+
+struct
+----------------------------------------------------
+write a program to findout distance between 2 planets using struct
