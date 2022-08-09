@@ -1,15 +1,12 @@
 
 write a program to findout largest cyliender's volume from 3 cyliender dimensions using nested decision making statement 
 
-
 write a program to findout whether given year is leap year or not 
 
 write a program to findout whether given letter is vowel or not  with switch case
 
 12) Write a program to display zodiac symbol & given zodiac sign from given birth day and month as per following criteria.
 https://in.pinterest.com/pin/81698180718875314/
-
-
 
 loop
 ----------------------------------------------------------------
